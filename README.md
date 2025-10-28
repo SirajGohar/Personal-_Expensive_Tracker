@@ -26,36 +26,12 @@ This app offers a lightweight alternative that **works without internet** and st
 ---
 
 ## 🎬 Screenshots & Demo  
-
-## 🎬 Screenshots & Demo  
-
-<div align="center" style="
-  display:flex;
-  justify-content:center;
-  gap:20px;
-  flex-wrap:wrap;
-">
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .fade-img {
-      opacity: 0;
-      animation: fadeIn 1s ease forwards;
-    }
-    .fade-img:nth-child(1) { animation-delay: 0s; }
-    .fade-img:nth-child(2) { animation-delay: 1s; }
-    .fade-img:nth-child(3) { animation-delay: 2s; }
-    .fade-img:nth-child(4) { animation-delay: 3s; }
-  </style>
-
-  <img src="img/ExpenseTracker.png" alt="Home Screen" width="200" class="fade-img" style="border-radius:12px;">
-  <img src="img/AddExpense.png" alt="Add Expense Screen" width="200" class="fade-img" style="border-radius:12px;">
-  <img src="img/StatisticsPage.png" alt="Statistics Page" width="200" class="fade-img" style="border-radius:12px;">
-  <img src="img/ExpenseDetail.png" alt="Expense Detail Screen" width="200" class="fade-img" style="border-radius:12px;">
-</div>
-
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="img/ExpenseTracker.png" alt="Home Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
+  <img src="img/AddExpense.png" alt="Add Expense Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
+  <img src="img/StatisticsPage.png" alt="Statistics Page" width="220" height="450" style="border-radius:12px; margin:10px;">
+  <img src="img/ExpenseDetail.png" alt="Expense Detail Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
+</p>
 
 
 ---
