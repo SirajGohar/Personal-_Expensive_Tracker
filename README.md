@@ -139,6 +139,12 @@ flutter packages pub run build_runner build
 flutter run
 
 
-Personal Expensive Tracker Documentation
 # 💰 Personal Expense Tracker (Flutter App)
-https://drive.google.com/file/d/16cgtC6rJtHw2BQLTyxzrRRLPETTI-soe/view?usp=sharing
+
+This project is a Flutter-based Personal Expense Tracker app that helps users manage their daily expenses efficiently.
+
+📄 **Project Documentation:**  
+[Open Documentation (PDF)](https://drive.google.com/file/d/16cgtC6rJtHw2BQLTyxzrRRLPETTI-soe/view?usp=sharing)
+
+Click the link above to view or download the full project documentation from Google Drive.
+
