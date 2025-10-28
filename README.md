@@ -137,3 +137,10 @@ flutter packages pub run build_runner build
 
 ## Run the Application
 flutter run
+
+
+Personal Expensive Tracker Documentation
+# 💰 Personal Expense Tracker (Flutter App)
+
+[![Built with Flutter](https://img.shields.io/badge/built%20with-Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev)  
+[![License](https://img.shields.io/badge/license-Educational-yellow)](#license)
