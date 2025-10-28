@@ -138,13 +138,17 @@ flutter packages pub run build_runner build
 ## Run the Application
 flutter run
 
-
+```
 # 💰 Personal Expense Tracker (Flutter App)
 
-This project is a Flutter-based Personal Expense Tracker app that helps users manage their daily expenses efficiently.
+This Flutter app helps users track and manage their personal expenses with ease.
 
-📄 **Project Documentation:**  
-[Open Documentation (PDF)](https://drive.google.com/file/d/16cgtC6rJtHw2BQLTyxzrRRLPETTI-soe/view?usp=sharing)
+## 📄 Project Documentation
 
-Click the link above to view or download the full project documentation from Google Drive.
+<p align="center">
+  <a href="https://drive.google.com/file/d/16cgtC6rJtHw2BQLTyxzrRRLPETTI-soe/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Documentation%20(PDF)-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Open Documentation">
+  </a>
+</p>
 
+Click the button above to view the full project documentation on Google Drive.
