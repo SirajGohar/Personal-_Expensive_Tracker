@@ -30,7 +30,7 @@ This app offers a lightweight alternative that **works without internet** and st
   <img src="img/ExpenseTracker.png" alt="Home Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
   <img src="img/AddExpense.png" alt="Add Expense Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
   <img src="img/StatisticsPage.png" alt="Statistics Page" width="220" height="450" style="border-radius:12px; margin:10px;">
-  <img src="img/ExpenseDetail.png" alt="Expense Detail Screen" width="220" height="450" style="border-radius:12px; margin:10px;">
+  
 </p>
 
 
